@@ -8,7 +8,7 @@ Este é o repositório do projeto **Divulgação Cultural Independente**, feito 
 
 - Repositório no GitHub: [https://github.com/LuanCosta345/TIAL](https://github.com/LuanCosta345/TIAL)
 - Protótipo no Figma (TI — Projeto de Interfaces): [abrir no Figma](https://www.figma.com/design/LkoTl3oKDp301oRZIQ7S81/TI-Projeto-de-Interfaces?node-id=0-1&t=A83yy0KHKhqGcryK-1)
-- Link da apresentação: *(colocar aqui o link público do quadro, quando o grupo tiver)*
+- Quadro Kanban (Trello):
 
 ---
 
@@ -22,7 +22,7 @@ Na prática, muitos artistas independentes sofrem para conseguir espaço em palc
 
 Antes de fechar o tema, lemos notícias e relatórios sobre o mercado da música no Brasil e sobre como as pessoas usam internet e redes sociais. O que mais chamou atenção foi que o setor da música até cresce em faturamento em alguns recortes, mas isso não significa que todo mundo aparece: tem muita gente postando conteúdo e pouco “espaço” para quem está começando ou trabalha fora das grandes gravadoras. Quase todo mundo ouve música por streaming, e artistas costumam divulgar muito no Instagram e em apps parecidos — o que ajuda, mas nem sempre vira show pago ou agenda fechada. Também existem debates públicos sobre a vida de quem trabalha com arte (pressão, censura, insegurança), o que reforça que ter processos mais claros na contratação pode ajudar no dia a dia.
 
-Não fizemos um estudo estatístico profundo; usamos isso mais para mostrar que o tema não é “inventado” e aparece na discussão sobre cultura e trabalho. As fontes que consultamos estão listadas no final do documento.
+Não fizemos um estudo estatístico profundo; usamos isso mais para mostrar que o tema não é “inventado” e aparece na discussão sobre cultura e trabalho. Como referência de pesquisa documental, o grupo leu  relatórios do setor e textos sobre hábitos de consumo de música e uso de redes.
 
 ### Objetivo do Projeto
 
@@ -48,6 +48,8 @@ A gente acha que vale a pena porque o problema aparece no dia a dia de quem vive
 ---
 
 ## 3. Product Discovery
+
+O grupo seguiu uma linha próxima do **Design Thinking**: primeiro tentamos **entender** o problema (leituras e entrevistas em formato roteirizado), depois **organizamos** o que descobrimos (matriz CSD, stakeholders, persona), e por fim **sintetizamos** em insights para orientar o design da solução. Abaixo estão os principais artefatos.
 
 ### Matriz CSD
 
@@ -193,7 +195,7 @@ Usamos Visual Studio Code para programar, GitHub para código e histórico de al
 
 ### Organização da equipe
 
-O grupo tenta seguir uma lógica parecida com Scrum: reunião para combinar o que fazer na semana ou no período, revisar o que saiu e ajustar o que ficou para depois. Cada um puxa tarefa de documentação, design ou código conforme combina. O “dono do produto” no fundo é o escopo da disciplina e o que o professor pede.
+O grupo tenta seguir uma lógica parecida com Scrum: reunião para combinar o que fazer na semana ou no período, revisar o que saiu e ajustar o que ficou para depois. A divisão de papéis não é fixa o tempo todo, mas em cada sprint alguém fica mais focado em documentação e README, outra pessoa em telas e Figma, e outras em código e repositório — sempre combinando no grupo para ninguém ficar sozinho numa parte.
 
 **Integrantes do Grupo 6**
 
