@@ -2,17 +2,39 @@
 
 ## 1. Introdução
 
-Este é o repositório do projeto **Divulgação Cultural Independente**, feito para a disciplina **Trabalho Interdisciplinar: Desenvolvimento de Aplicações Web**. A ideia é uma plataforma na web que ajude artistas independentes a ganharem visibilidade e facilite para bares e espaços de evento encontrarem e contratarem atrações com mais organização.
+### Informações básicas do projeto
 
-**Links úteis**
+- **Projeto:** Divulgação Cultural Independente
+- **Repositório GitHub:** [https://github.com/LuanCosta345/TIAL](https://github.com/LuanCosta345/TIAL)
+- **Membros da equipe (Grupo 6):**
+  - Gabriela Pinheiro Pierazolli
+  - Luan de Assis Fonseca Moraes Costa
+  - Luiza Morais Braga
+  - Maria Fernanda Melo e Reis
+  - Maria Luiza Aparecida Trindade de Meneses
+  - Nubia Torres de Oliveira
+  - Yuri Campos Silva
 
-- Repositório no GitHub: [https://github.com/LuanCosta345/TIAL](https://github.com/LuanCosta345/TIAL)
+O projeto é uma plataforma na web que ajuda artistas independentes a ganharem visibilidade e facilita para bares e espaços de evento encontrarem e contratarem atrações com mais organização.
+
+**Outros links úteis**
+
 - Protótipo no Figma (TI — Projeto de Interfaces): [abrir no Figma](https://www.figma.com/design/LkoTl3oKDp301oRZIQ7S81/TI-Projeto-de-Interfaces?node-id=0-1&t=A83yy0KHKhqGcryK-1)
-- Quadro Kanban (Trello):
+- Quadro Kanban (Trello): *(inserir link público do quadro quando o grupo tiver)*
+
+A documentação do projeto é estruturada da seguinte forma:
+
+1. Introdução
+2. Contexto
+3. Product Discovery
+4. Product Design
+5. Metodologia
+6. Solução
+7. Referências Bibliográficas
 
 ---
 
-## 2. Contexto do Projeto
+## 2. Contexto
 
 ### Problema
 
@@ -195,17 +217,7 @@ Usamos Visual Studio Code para programar, GitHub para código e histórico de al
 
 ### Organização da equipe
 
-O grupo tenta seguir uma lógica parecida com Scrum: reunião para combinar o que fazer na semana ou no período, revisar o que saiu e ajustar o que ficou para depois. A divisão de papéis não é fixa o tempo todo, mas em cada sprint alguém fica mais focado em documentação e README, outra pessoa em telas e Figma, e outras em código e repositório — sempre combinando no grupo para ninguém ficar sozinho numa parte.
-
-**Integrantes do Grupo 6**
-
-- Gabriela Pinheiro Pierazolli
-- Luan de Assis Fonseca Moraes Costa
-- Luiza Morais Braga
-- Maria Fernanda Melo e Reis
-- Maria Luiza Aparecida Trindade de Meneses
-- Nubia Torres de Oliveira
-- Yuri Campos Silva
+O grupo tenta seguir uma lógica parecida com Scrum: reunião para combinar o que fazer na semana ou no período, revisar o que saiu e ajustar o que ficou para depois. A divisão de papéis não é fixa o tempo todo, mas em cada sprint alguém fica mais focado em documentação e README, outra pessoa em telas e Figma, e outras em código e repositório — sempre combinando no grupo para ninguém ficar sozinho numa parte. Os nomes dos integrantes estão na **Introdução**.
 
 ### Kanban
 
