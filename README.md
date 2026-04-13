@@ -2,17 +2,13 @@
 
 ## 1. Introdução
 
-**Nome do projeto:** Divulgação Cultural Independente
+Este é o repositório do projeto **Divulgação Cultural Independente**, feito para a disciplina **Trabalho Interdisciplinar: Desenvolvimento de Aplicações Web**. A ideia é uma plataforma na web que ajude artistas independentes a ganharem visibilidade e facilite para bares e espaços de evento encontrarem e contratarem atrações com mais organização.
 
-**Descrição geral:** Este repositório reúne o material e a documentação do projeto desenvolvido na disciplina **Trabalho Interdisciplinar: Desenvolvimento de Aplicações Web**, com foco em uma plataforma digital voltada à visibilidade de artistas independentes e à organização da busca e contratação de atrações por estabelecimentos.
+**Links úteis**
 
-**Links do projeto:**
-
-| Recurso | Link |
-|--------|------|
-| Repositório GitHub | [https://github.com/LuanCosta345/TIAL](https://github.com/LuanCosta345/TIAL) |
-| Protótipo (Figma) | [TI — Projeto de Interfaces (Figma)](https://www.figma.com/design/LkoTl3oKDp301oRZIQ7S81/TI-Projeto-de-Interfaces?node-id=0-1&t=A83yy0KHKhqGcryK-1) |
-| Quadro Kanban (Trello) | *(inserir link público do quadro quando disponível)* |
+- Repositório no GitHub: [https://github.com/LuanCosta345/TIAL](https://github.com/LuanCosta345/TIAL)
+- Protótipo no Figma (TI — Projeto de Interfaces): [abrir no Figma](https://www.figma.com/design/LkoTl3oKDp301oRZIQ7S81/TI-Projeto-de-Interfaces?node-id=0-1&t=A83yy0KHKhqGcryK-1)
+- Quadro Kanban no Trello: *(colocar aqui o link público do quadro, quando o grupo tiver)*
 
 ---
 
@@ -20,48 +16,34 @@
 
 ### Problema
 
-No cenário cultural local, artistas independentes enfrentam obstáculos recorrentes para obter oportunidades de apresentação e ampliar sua visibilidade. Em paralelo, estabelecimentos que desejam oferecer atrações vivenciam dificuldades para localizar artistas de maneira ágil e estruturada. Há pouca organização no processo de contratação, a comunicação entre artistas e contratantes costuma ser fragmentada ou inconsistente, e eventos de menor porte recebem pouca divulgação. Esse conjunto de fatores agrava a distância entre a oferta artística e a demanda por entretenimento em espaços como bares e pequenos eventos.
+Na prática, muitos artistas independentes sofrem para conseguir espaço em palcos e para serem vistos além do círculo de amigos e do algoritmo das redes. Do outro lado, quem tem bar ou organiza evento pequeno também não tem um lugar simples para achar artista com estilo certo, ver material de apresentação e fechar um combinado sem depender de várias conversas soltas no WhatsApp ou no direct. O resultado é pouca divulgação para eventos menores, contratação desorganizada e comunicação que muitas vezes falha no meio do caminho.
 
-### Dados e evidências (pesquisa documental)
+### Um pouco de pesquisa (por que faz sentido falar disso)
 
-Para fundamentar o problema com **fatos e indicadores públicos** (não substituem pesquisa de campo exclusiva do grupo, mas embasam a relevância do tema):
+Antes de fechar o tema, lemos notícias e relatórios sobre o mercado da música no Brasil e sobre como as pessoas usam internet e redes sociais. O que mais chamou atenção foi que o setor da música até cresce em faturamento em alguns recortes, mas isso não significa que todo mundo aparece: tem muita gente postando conteúdo e pouco “espaço” para quem está começando ou trabalha fora das grandes gravadoras. Quase todo mundo ouve música por streaming, e artistas costumam divulgar muito no Instagram e em apps parecidos — o que ajuda, mas nem sempre vira show pago ou agenda fechada. Também existem debates públicos sobre a vida de quem trabalha com arte (pressão, censura, insegurança), o que reforça que ter processos mais claros na contratação pode ajudar no dia a dia.
 
-- **Mercado fonográfico e crescimento:** o setor fonográfico brasileiro tem apresentado expansão de faturamento em série histórica recente; divulgações da imprensa especializada referem crescimento da ordem de **14%** em um ano e faturamento na casa de **bilhões de reais**, com o Brasil em posição de destaque em rankings globais do segmento (ex.: relatórios sectoriais e cobertura em veículos como a Agência Brasil). Isso mostra um ecossistema aquecido, mas **não elimina** a disputa por visibilidade no “miolo” dos artistas que buscam palco e renda em shows.
-- **Streaming e descoberta:** o **streaming** concentra a maior parte das receitas do mercado fonográfico (ordem de grandeza frequentemente citada acima de **80%** das receitas em relatórios do setor). Há simultaneamente um volume massivo de conteúdo disponível, o que reforça a dificuldade de **destaque** sem estratégias adicionais além das plataformas de áudio.
-- **Papel da produção independente em plataforma global:** comunicados de plataformas de streaming indicam que parcela relevante da receita associada a artistas brasileiros pode estar ligada a trajetórias **independentes** ou a ecossistemas fora apenas das majors tradicionais — o que sustenta a hipótese de um universo grande de artistas que precisam de **canais complementares** para shows e contato com contratantes.
-- **Redes sociais como canal habitual:** estudos e relatórios sobre consumo digital no Brasil apontam penetração elevada de redes sociais na população; para artistas, isso traduz dependência de **Instagram, TikTok, WhatsApp** etc. para divulgação, com **algoritmo variável** e conversão incerta para agenda de apresentações paga.
-- **Vulnerabilidade e ambiente de trabalho artístico:** organizações da sociedade civil e veículos especializados têm divulgado levantamentos sobre **insegurança, intimidação e autocensura** relatadas por artistas no Brasil, em percentuais elevados em alguns estudos — reforçando a necessidade de ambientes de contratação mais **previsíveis e respeitosos**, além de visibilidade.
-
-As fontes consultadas para esses pontos estão relacionadas na seção **Referências Bibliográficas** (incluindo links para consulta e data de acesso ao elaborar o trabalho).
+Não fizemos um estudo estatístico profundo; usamos isso mais para mostrar que o tema não é “inventado” e aparece na discussão sobre cultura e trabalho. As fontes que consultamos estão listadas no final do documento.
 
 ### Objetivo do Projeto
 
-**Objetivo geral**
-
-Contribuir para reduzir a assimetria de informação e a desorganização no contato entre artistas independentes e estabelecimentos, apoiando a descoberta de oportunidades, a apresentação de trabalhos e um fluxo de proposta mais claro.
+**Objetivo geral:** diminuir um pouco essa bagunça na informação entre quem faz show e quem precisa de atração, juntando perfil, busca e propostas num fluxo mais claro.
 
 **Objetivos específicos**
 
-- Permitir que artistas cadastrem e atualizem perfis com informações relevantes (incluindo materiais como vídeos e definição de estilo), divulguem apresentações e acessem oportunidades de forma mais estruturada.
-- Permitir que estabelecimentos busquem artistas por critérios como gênero, visualizem perfis com apoio de mídia (por exemplo, vídeos) e conduzam propostas de contratação por meio da plataforma, com interface simples e organizada.
+- Dar para o artista montar um perfil com informações, vídeos e estilo, divulgar onde vai tocar e ver oportunidades com mais estrutura.
+- Dar para o estabelecimento buscar artista (por exemplo por gênero), ver perfil com vídeo e mandar proposta pelo próprio sistema, sem uma interface cheia de passos desnecessários.
 
 ### Justificativa
 
-Valorizar a produção cultural independente e facilitar encontros entre oferta e demanda tem impacto direto na sustentabilidade de pequenos circuitos de shows e na diversidade de programação em espaços comerciais. Os **dados de mercado** mostram um setor dinâmico, porém com **concorrência acirrada por atenção**; os **hábitos digitais** mostram dependência de redes sociais sem garantia de fechamento de agenda; e relatos agregados de **estudos sobre a condição artística** reforçam a importância de processos mais claros. Um projeto que organize perfis, busca e comunicação reduz retrabalho, mal-entendidos e perda de oportunidades, beneficiando tanto quem performa quanto quem contrata. Do ponto de vista acadêmico, o tema integra experiência de usuário, modelagem de necessidades reais e desenvolvimento web aplicado a um problema socialmente relevante.
+A gente acha que vale a pena porque o problema aparece no dia a dia de quem vive de show e de quem programa evento, e dá para encarar no trabalho da disciplina: pensar em usuário, desenhar telas e depois implementar em web. O projeto junta necessidade real com o que a matéria pede (descoberta, design e desenvolvimento).
 
 ### Público-alvo
 
-**Artistas independentes**
+**Artistas independentes:** quem faz apresentação e hoje depende muito de rede social para se mostrar, mas sente falta de oportunidade organizada e de um lugar onde contratante ache fácil.
 
-Profissionais ou semi-profissionais que produzem shows e dependem de canais informais (em especial redes sociais) para divulgação. Buscam mais oportunidades, reconhecimento e valorização, mas enfrentam dificuldade para encontrar convites e processos de contratação organizados.
+**Donos de bar e quem organiza evento:** quem escolhe atração e precisa decidir rápido, com informação no mesmo lugar (estilo, vídeo, contato pela plataforma).
 
-**Donos de bares e responsáveis por eventos**
-
-Pessoas que decidem programação e contratação de atrações. Precisam de soluções que agilizem a descoberta de artistas alinhados ao perfil do espaço e que centralizem informações para decisão (perfil, estilo, material audiovisual).
-
-**Nível de tecnologia e comportamento**
-
-Espera-se familiaridade básica a intermediária com internet e aplicativos móveis ou navegadores, uso habitual de redes sociais para comunicação e divulgação, e preferência por fluxos objetivos (cadastro, busca, visualização de perfil e envio ou recebimento de propostas sem etapas desnecessárias).
+**Sobre tecnologia:** a ideia é que quem use saiba o básico de celular e navegador, como já usa no dia a dia. Nada de fluxo complicado demais.
 
 ---
 
@@ -71,82 +53,65 @@ Espera-se familiaridade básica a intermediária com internet e aplicativos móv
 
 **Certezas**
 
-- Artistas independentes costumam ter pouca visibilidade em relação a grandes nomes ou atrações já estabelecidas.
-- Estabelecimentos precisam de atrações para compor programação e atrair público.
-- A comunicação entre artistas e contratantes frequentemente é falha ou pouco padronizada.
-- Pequenos eventos enfrentam limitações de divulgação.
+- Artista independente costuma ter menos visibilidade que grandes nomes.
+- Bar e espaço de evento precisam de atração para movimentar o lugar.
+- A conversa entre artista e contratante muitas vezes é por mensagem solta, sem padrão.
+- Evento pequeno sofre para divulgar.
 
 **Suposições**
 
-- Perfis com vídeos e informações de estilo aumentam a confiança na escolha do artista.
-- Uma busca por gênero e uma contratação iniciada no próprio aplicativo reduzem o tempo entre interesse e proposta.
-- Artistas valorizam receber propostas diretamente pela plataforma em vez de depender apenas de mensagens dispersas em redes sociais.
+- Perfil com vídeo e estilo definido ajuda na hora de confiar no artista.
+- Busca por gênero e proposta dentro do app podem acelerar o “sim” ou o “não”.
+- Artistas preferem receber proposta num lugar só do que só no direct misturado com outras coisas.
 
 **Dúvidas**
 
-- Quais critérios de busca e filtros são mais decisivos para estabelecimentos em diferentes portes de evento.
-- Como equilibrar simplicidade da interface com a riqueza de informações no perfil do artista.
-- Quais barreiras de adoção (cadastro, verificação de perfil, hábito de uso) afetam mais cada público.
+- Quais filtros o estabelecimento mais usa na prática.
+- Como não deixar a tela pesada se o perfil tiver muita informação.
+- O que mais atrapalha as pessoas a se cadastrarem ou voltarem a usar.
 
 ### Mapa de Stakeholders
 
-**Pessoas fundamentais**
+**Quem é central:** artistas e estabelecimentos (são quem usam o sistema de verdade).
 
-- Artistas independentes: usuários finais que produzem conteúdo e buscam oportunidades.
-- Estabelecimentos e organizadores de eventos: usuários finais que demandam atrações e definem contratação.
+**Quem é importante:** o grupo que desenvolve e o professor da disciplina (entrega e avaliação).
 
-**Pessoas importantes**
-
-- Equipe de desenvolvimento e design do projeto acadêmico: responsáveis por entregar a solução e documentar decisões.
-- Docentes da disciplina: avaliam o alinhamento pedagógico, a metodologia e os entregáveis.
-
-**Pessoas influenciadoras**
-
-- Público frequentador dos espaços: indiretamente influenciado pela qualidade e variedade da programação.
-- Comunidade e movimentos culturais locais: podem amplificar ou criticar o uso da plataforma conforme percebam benefícios reais.
+**Quem influencia:** público que vai aos shows (sofre o efeito da programação) e movimentos culturais da cidade (podem divulgar ou criticar a ideia).
 
 ### Pesquisa e Entendimento
 
-O entendimento inicial combinou **pesquisa documental** (dados de mercado, hábitos digitais e relatórios sobre trabalho artístico) com **entrevistas semiestruturadas simuladas**, elaboradas a partir de um roteiro único de perguntas aplicado, em caráter acadêmico, a **dois perfis de artistas** e **dois perfis de donos de estabelecimentos**. A simulação permite documentar **padrões de dor e de necessidade** típicos do problema quando não há transcrição real de campo disponível no repositório.
+Combinamos leitura de materiais na internet com entrevistas **montadas pelo grupo** (não são entrevistas reais gravadas, mas seguem um roteiro e ajudam a explicar o problema como a gente enxerga). Falamos com dois tipos de artista e dois tipos de dono de estabelecimento, no papel, para tirar ideias de dor e de necessidade.
 
-**Roteiro (resumo):** motivações para shows; canais de divulgação; dificuldades para fechar agenda; como encontram ou selecionam atrações; o que falha na comunicação (prazo, valor, repertório); expectativa em relação a uma plataforma única.
+**Roteiro em linhas gerais:** por que faz show, onde divulga, onde trava na hora de fechar data, como escolhe atração, o que costuma dar errado na conversa (valor, horário, estilo), o que esperaria de um app assim.
 
-#### Resultados simulados — Artista A (cantora independente, 29 anos)
+**Artista A — cantora, 29 anos**
 
-- Relato: “Posto vídeo todo dia, mas o convite bom vem quando alguém me indica. No Direct mistura pedido de orçamento com spam.”
-- Pontos recorrentes: dependência de **indicação**; **inbox** como canal de trabalho pouco organizado; necessidade de mostrar **show ao vivo** em vídeo para fechar bar.
+“Eu posto vídeo direto, mas o convite bom costuma vir quando alguém me indica. No direct fica misturado pedido de orçamento com coisa que nem é trabalho.”
 
-#### Resultados simulados — Artista B (instrumentista, 41 anos)
+**Artista B — instrumentista, 41 anos**
 
-- Relato: “Já perdi data porque a conversa ficou no grupo do WhatsApp e ninguém confirmou valor.”
-- Pontos recorrentes: **falta de confirmação formal**; eventos pequenos com **divulgação fraca**; desejo de **agenda visível** para o público certo (contratante), não só seguidores.
+“Já perdi data porque a conversa ficou no grupo do Zap e ninguém fechou valor direito.”
 
-#### Resultados simulados — Estabelecimento A (dono de bar, 47 anos)
+**Estabelecimento A — dono de bar, 47 anos**
 
-- Relato: “Quero alguém de MPB que não seja barulhento demais. Fico caçando no Instagram por hashtag, é sorte.”
-- Pontos recorrentes: **busca trabalhosa**; dificuldade de comparar **perfil + vídeo** em um só lugar; medo de **no-show** ou equívoco de estilo.
+“Eu quero MPB que não seja ensurdecedor. Fico caçando hashtag no Insta, é meio sorte.”
 
-#### Resultados simulados — Estabelecimento B (organizador de eventos em espaço multiuso, 34 anos)
+**Estabelecimento B — organiza evento em espaço multiuso, 34 anos**
 
-- Relato: “Preciso de três atrações no mês e não tenho tempo de ficar negociando em três redes diferentes.”
-- Pontos recorrentes: necessidade de **padronização** (proposta, data, cache); prioridade para **filtro** (gênero, disponibilidade).
+“Preciso de várias atrações no mês e não dá para negociar em três redes diferentes.”
 
-#### Insights obtidos (síntese)
+**O que deu para tirar disso**
 
-- **Descoberta** é o gargalo para ambos os lados: artista não enxerga demanda organizada; estabelecimento não enxerga oferta classificável.
-- **Comunicação informal** (redes sociais e mensagens) gera perda de informação e atraso na confirmação.
-- **Prova social em vídeo** e **estilo musical explícito** reduzem incerteza na contratação.
-- Há espaço para uma solução que una **perfil + busca + proposta** sem substituir totalmente as redes, mas **ordenando** o fluxo.
+- Tanto artista quanto bar sentem falta de um jeito mais direto de se achar.
+- Mensagem informal vira confusão e coisa que se perde.
+- Vídeo e estilo claros ajudam na decisão.
+- Faz sentido ter perfil, busca e proposta no mesmo lugar, sem tentar substituir 100% as redes, mas ordenando melhor o contato.
 
 ### Personas
 
 **Jorge — artista**
 
-- **Nome:** Jorge  
-- **Idade:** 35 anos  
-- **Profissão:** cantor  
-
-Jorge utiliza redes sociais para divulgar seu trabalho e manter contato com seguidores. Busca ativamente oportunidades de shows e deseja reconhecimento e valorização pelo seu ofício. Apesar do esforço de presença online, encontra dificuldade para localizar convites e processos de contratação organizados, o que gera frustração e sensação de imprevisibilidade na carreira. Espera poder concentrar informações profissionais (repertório, estilo musical, vídeos) em um só lugar, ser encontrado por quem procura atrações compatíveis e receber propostas de forma direta e rastreável.
+Cantor, 35 anos. Usa rede social para mostrar trabalho e buscar espaço. Quer ser levado a sério e ter mais chances de show, mas sente que oportunidade boa aparece pouco e de forma desorganizada. Quer juntar repertório, estilo e vídeo num perfil só, ser achado por quem procura atração parecida e receber proposta num canal que não se perca.
 
 ---
 
@@ -170,49 +135,47 @@ Jorge utiliza redes sociais para divulgar seu trabalho e manter contato com segu
 
 ### Requisitos do Sistema
 
-#### Requisitos Funcionais
+#### Requisitos funcionais
 
-| ID | Requisito |
-|----|-----------|
-| RF01 | O sistema deve permitir cadastro, edição e visualização de **perfil de artista**, incluindo dados básicos, **estilo musical** e **mídia** (ex.: links ou incorporação de vídeo). |
-| RF02 | O sistema deve permitir ao artista **cadastrar e listar apresentações** ou oportunidades divulgadas, com informações mínimas de data e local (conforme regras de privacidade definidas na implementação). |
-| RF03 | O sistema deve permitir ao estabelecimento **buscar e filtrar artistas** (ex.: por **gênero musical**) e **abrir o perfil completo** para decisão. |
-| RF04 | O sistema deve permitir o **envio e o recebimento de propostas** entre estabelecimento e artista **pelo próprio sistema**, com registro para acompanhamento (estado da proposta). |
-| RF05 | O sistema deve oferecer **autenticação de usuários** (login) e distinção de perfil (**artista** x **estabelecimento**), com áreas restritas conforme o papel. |
-| RF06 | O sistema deve permitir ao estabelecimento **iniciar o fluxo de contratação** a partir do perfil do artista (ação explícita de proposta ou equivalente definido no protótipo). |
+1. Cadastro, edição e visualização de perfil de artista, com dados básicos, estilo musical e mídia (link ou vídeo).
+2. O artista pode cadastrar e listar apresentações ou oportunidades, com data e local conforme a gente definir na implementação.
+3. O estabelecimento pode buscar e filtrar artistas (por exemplo por gênero) e abrir o perfil completo.
+4. Envio e recebimento de propostas entre artista e estabelecimento dentro do sistema, com algum tipo de status para acompanhar.
+5. Login e tipo de usuário (artista ou estabelecimento), com partes do site só para quem tem permissão.
+6. O estabelecimento pode iniciar o fluxo de contratação a partir do perfil do artista (botão de proposta ou parecido).
 
-#### Requisitos Não Funcionais
+#### Requisitos não funcionais
 
-| ID | Requisito |
-|----|-----------|
-| RNF01 | **Usabilidade:** interface objetiva, com linguagem clara e navegação consistente entre cadastro, busca e propostas; priorizar formulários curtos e feedback de erro compreensível. |
-| RNF02 | **Desempenho:** páginas de listagem e perfil devem carregar em tempo aceitável em conexões típicas de banda larga móvel (metas quantitativas podem ser definidas na implementação, ex.: tempo máximo de carregamento inicial). |
-| RNF03 | **Segurança:** armazenamento seguro de credenciais (ex.: senha com hash), uso de **HTTPS** em ambiente de produção e controle de acesso por sessão/perfil. |
-| RNF04 | **Compatibilidade:** layout **responsivo** para acesso via navegador em desktop e smartphone, alinhado ao uso do público em redes sociais e mensagens. |
+1. Usabilidade: telas claras, poucos passos confusos, mensagem de erro que dá para entender.
+2. Desempenho: listas e perfil não podem ficar eternas para carregar no uso normal.
+3. Segurança: senha guardada de forma adequada, site em HTTPS em produção, cada um só acessa o que é do seu tipo de conta.
+4. Compatibilidade: uso razoável no celular e no computador, já que o público está acostumado a isso.
 
-### Proposta de Valor (mapa sintético)
+### Proposta de valor
 
-| Dimensão | Conteúdo |
-|----------|----------|
-| **Dores do usuário — Artista** | Pouca visibilidade além das redes; oportunidades desorganizadas; propostas espalhadas em canais diferentes; dificuldade de passar credibilidade (estilo + show) rapidamente. |
-| **Dores do usuário — Estabelecimento** | Dificuldade de achar artista compatível com o espaço; tempo gasto em busca manual; comunicação falha ou incompleta; pequenos eventos com pouca divulgação estruturada. |
-| **Ganhos esperados — Artista** | Perfil profissional centralizado; maior chance de ser encontrado por quem **já** busca atração; propostas em um só fluxo; divulgação de agenda. |
-| **Ganhos esperados — Estabelecimento** | Busca por gênero e perfil com vídeo; decisão mais rápida; processo de proposta **padronizado**; menos retrabalho. |
-| **Como a solução resolve** | A plataforma web **conecta** oferta e demanda com **perfil rico**, **busca/filtro**, **mídia de apoio** e **canal de propostas** integrado, reduzindo dependência exclusiva de mensagens informais e aproximando “quem precisa de palco” de “quem precisa de atração”. |
+**Dores do artista:** pouca visibilidade além do que posta nas redes; convite e proposta espalhados; dificuldade de mostrar rápido como é o show ao vivo.
+
+**Dores do estabelecimento:** perder tempo caçando artista; não saber se combina com o espaço; conversa que não fecha direito.
+
+**O que o artista ganha:** um perfil mais “profissional” num lugar só; chance maior de ser encontrado por quem já quer contratar; propostas num fluxo único.
+
+**O que o estabelecimento ganha:** busca com filtro; perfil com vídeo; proposta mais padronizada e menos ida e volta perdida.
+
+**Como a plataforma ajuda:** junta perfil, busca e canal de proposta para aproximar quem precisa de palco e quem precisa de atração, sem substituir totalmente Instagram ou WhatsApp, mas dando um caminho mais organizado.
 
 ### Projeto de Interface
 
-#### Fluxo do Usuário
+#### Fluxo do usuário
 
-De forma geral, o usuário acessa a aplicação web, identifica-se como artista ou estabelecimento e realiza cadastro ou login. O artista preenche e mantém o perfil, anexa ou associa vídeos e informações de estilo, cadastra ou divulga apresentações e consulta oportunidades; pode receber e acompanhar propostas enviadas por estabelecimentos. O estabelecimento utiliza busca e filtros (como gênero), abre perfis para avaliação com apoio de vídeo e envia ou formaliza proposta de contratação pela própria plataforma. O desenho prioriza poucos passos entre descoberta e ação (visualizar, contatar ou propor).
+A pessoa entra na aplicação, faz login como artista ou estabelecimento. O artista cuida do perfil, coloca vídeo e estilo, cadastra apresentações e pode ver oportunidades e propostas. O estabelecimento busca (por exemplo por gênero), abre o perfil, assiste ao material e manda proposta pelo sistema. A ideia é pouco clique entre “achei interessante” e “mandei proposta”.
 
 #### Wireframes
 
-Os wireframes representam o esqueleto das telas em baixa fidelidade: disposição de blocos (cabeçalho, listas, formulários, área de mídia), hierarquia da informação e navegação entre cadastro, perfil, busca e propostas. Servem para validar fluxos antes do refinamento visual, sem definir ainda identidade gráfica final ou componentes estilísticos detalhados.
+São os rascunhos de tela em baixa fidelidade: onde fica menu, lista, formulário, área de vídeo. Serve para alinhar o fluxo antes de caprichar no visual final.
 
-#### Protótipo Interativo
+#### Protótipo interativo
 
-**Protótipo no Figma:** [TI — Projeto de Interfaces](https://www.figma.com/design/LkoTl3oKDp301oRZIQ7S81/TI-Projeto-de-Interfaces?node-id=0-1&t=A83yy0KHKhqGcryK-1)
+[TI — Projeto de Interfaces no Figma](https://www.figma.com/design/LkoTl3oKDp301oRZIQ7S81/TI-Projeto-de-Interfaces?node-id=0-1&t=A83yy0KHKhqGcryK-1)
 
 ---
 
@@ -220,66 +183,55 @@ Os wireframes representam o esqueleto das telas em baixa fidelidade: disposiçã
 
 ### Ferramentas
 
-| Ferramenta | Uso e justificativa |
-|------------|---------------------|
-| **Visual Studio Code** | Editor de código com suporte a extensões, depuração e integração com Git, adequado ao desenvolvimento web em equipe. |
-| **GitHub** | Hospedagem do repositório, histórico de versões, revisão de alterações e colaboração assíncrona entre integrantes. |
-| **Figma** | Design de interface, wireframes de média/alta fidelidade e prototipação para alinhar fluxos antes da implementação. |
-| **WhatsApp ou Discord** | Comunicação rápida para alinhamentos, dúvidas e combinação de entregas entre membros do grupo. |
-| **Trello** | Visualização de tarefas em cartões, acompanhamento de responsáveis e status, compatível com práticas ágeis leves. |
+Usamos Visual Studio Code para programar, GitHub para código e histórico de alterações, Figma para telas e protótipo, WhatsApp ou Discord para conversar no grupo e Trello para organizar o que falta fazer.
 
-**Links:**
+**Links**
 
-- GitHub: [https://github.com/LuanCosta345/TIAL](https://github.com/LuanCosta345/TIAL)  
-- Figma: [TI — Projeto de Interfaces](https://www.figma.com/design/LkoTl3oKDp301oRZIQ7S81/TI-Projeto-de-Interfaces?node-id=0-1&t=A83yy0KHKhqGcryK-1)  
-- Trello (Kanban): *(inserir link público do quadro quando disponível)*  
+- GitHub: [https://github.com/LuanCosta345/TIAL](https://github.com/LuanCosta345/TIAL)
+- Figma: [TI — Projeto de Interfaces](https://www.figma.com/design/LkoTl3oKDp301oRZIQ7S81/TI-Projeto-de-Interfaces?node-id=0-1&t=A83yy0KHKhqGcryK-1)
+- Trello: *(link do quadro quando estiver público)*
 
-### Organização da Equipe
+### Organização da equipe
 
-Adota-se **Scrum** de forma adaptada ao contexto acadêmico: reuniões periódicas para planejar o que será feito no período (similar a um sprint curto), revisão do que foi entregue e ajuste de prioridades. A equipe divide tarefas por frentes (por exemplo, documentação, pesquisa de usuário, design de interface, desenvolvimento front-end e back-end), com responsáveis definidos por item e registro de dependências entre entregas. O Product Owner acadêmico é representado pelos requisitos da disciplina e pelo escopo acordado pelo grupo; o time se autoorganiza para cumprir prazos e critérios de avaliação.
+O grupo tenta seguir uma lógica parecida com Scrum: reunião para combinar o que fazer na semana ou no período, revisar o que saiu e ajustar o que ficou para depois. Cada um puxa tarefa de documentação, design ou código conforme combina. O “dono do produto” no fundo é o escopo da disciplina e o que o professor pede.
 
 **Integrantes do Grupo 6**
 
-- Gabriela Pinheiro Pierazolli  
-- Luan de Assis Fonseca Moraes Costa  
-- Luiza Morais Braga  
-- Maria Fernanda Melo e Reis  
-- Maria Luiza Aparecida Trindade de Meneses  
-- Nubia Torres de Oliveira  
-- Yuri Campos Silva  
+- Gabriela Pinheiro Pierazolli
+- Luan de Assis Fonseca Moraes Costa
+- Luiza Morais Braga
+- Maria Fernanda Melo e Reis
+- Maria Luiza Aparecida Trindade de Meneses
+- Nubia Torres de Oliveira
+- Yuri Campos Silva
 
 ### Kanban
 
-O quadro no **Trello** utiliza as colunas **A Fazer**, **Em Progresso** e **Concluído**, com cartões contendo responsável, prazo da disciplina e critério de “pronto” combinado em equipe.
+No Trello usamos três colunas: A fazer, Em progresso e Concluído. Cada cartão pode ter nome de quem está fazendo e prazo da entrega da disciplina.
 
-**Exemplos de tarefas por coluna (ilustrativos):**
+**Exemplos do que pode aparecer em cada coluna**
 
-| A Fazer | Em Progresso | Concluído |
-|---------|--------------|-----------|
-| Redigir RF/RNF na documentação | Implementar RF05 (login e perfis) | Pesquisa documental com fontes na seção Referências |
-| Validar fluxo de proposta no Figma | Tela de busca por gênero (RF03) | Matriz CSD revisada em reunião |
-| Testar responsividade (RNF04) em 2 breakpoints | Modelagem inicial do banco de dados | Wireframes da home e do perfil do artista |
-| Configurar repositório e README no GitHub | Integração do formulário de perfil (RF01) | Definição do roteiro de entrevista simulada |
+- A fazer: revisar texto do README; testar tela no celular; alinhar regra de proposta com o grupo.
+- Em progresso: tela de login; busca por gênero; desenho da página de perfil no Figma.
+- Concluído: matriz CSD combinada em reunião; wireframe da home; roteiro das entrevistas fictícias.
 
 ---
 
 ## 6. Solução
 
-Trata-se de uma **plataforma web** que conecta **artistas independentes** e **estabelecimentos** interessados em atrações. A aplicação viabiliza perfis de artista com informações, vídeos e estilo musical; divulgação de apresentações; busca de oportunidades; recebimento de propostas pelos artistas; busca de artistas por gênero; visualização de perfis com vídeos; e fluxo de contratação iniciado ou conduzido pelo aplicativo, com ênfase em **simplicidade e organização** para o lado dos estabelecimentos. Os **requisitos funcionais e não funcionais** da seção 4 consolidam o escopo esperado para implementação e avaliação.
+É uma plataforma web que liga artista independente e estabelecimento. O artista pode ter perfil com vídeo e estilo, divulgar onde vai tocar, ver oportunidades e receber proposta. O estabelecimento busca por gênero, vê o perfil com vídeo e manda proposta pelo app, com foco em ser simples de usar. Os requisitos da seção anterior resumem o que a gente pretende implementar.
 
 ---
 
-## 7. Referências Bibliográficas
+## 7. Referências bibliográficas
 
-Fontes consultadas para **dados de mercado**, **hábitos de consumo digital** e **apoio teórico** (UX e desenvolvimento web). Atualizar **datas de acesso** ao entregar o trabalho acadêmico.
+Material que ajudou na parte de contexto (mercado da música, notícias sobre o setor) e na parte técnica e de interface. Vale colocar data de acesso quando for entregar o trabalho.
 
-- AGÊNCIA BRASIL. *Faturamento do mercado fonográfico brasileiro* — notícias sobre desempenho do setor e posicionamento do Brasil em rankings globais. Disponível em: [https://agenciabrasil.ebc.com.br/](https://agenciabrasil.ebc.com.br/) — buscar matérias recentes sobre mercado fonográfico e cultura.  
-- PRÓ-MÚSICA BRASIL. Relatórios do **Mercado Brasileiro da Música** (séries anuais com receitas, participação do streaming e indicadores do setor). Disponível em: [https://pro-musicabr.org.br/](https://pro-musicabr.org.br/)  
-- SPOTIFY NEWSROOM. Estatísticas e comunicados sobre **artistas brasileiros** e participação de produções independentes em plataformas de streaming (conferir texto e ano da publicação utilizada). Disponível em: [https://newsroom.spotify.com/](https://newsroom.spotify.com/)  
-- RÁDIO COMUNITÁRIA / VEÍCULOS ESPECIALIZADOS. Reportagens sobre **estudos com artistas** (vulnerabilidade, censura, intimidação) — usar a matéria exata citada no trabalho com autor e data. Exemplo de busca: [https://www.radiocom.org.br/](https://www.radiocom.org.br/)  
-- COOPER, Alan et al. *About Face: The Essentials of Interaction Design*. Wiley.  
-- NORMAN, Don. *O Design do Dia a Dia*.  
-- MDN Web Docs. Documentação de HTML, CSS e JavaScript. [https://developer.mozilla.org/](https://developer.mozilla.org/)  
+- Agência Brasil — notícias sobre cultura e mercado fonográfico: [https://agenciabrasil.ebc.com.br/](https://agenciabrasil.ebc.com.br/)
+- Pró-Música Brasil — relatórios sobre o mercado da música no Brasil: [https://pro-musicabr.org.br/](https://pro-musicabr.org.br/)
+- Spotify Newsroom — textos sobre artistas e uso da plataforma: [https://newsroom.spotify.com/](https://newsroom.spotify.com/)
+- MDN Web Docs — HTML, CSS, JavaScript: [https://developer.mozilla.org/](https://developer.mozilla.org/)
+- Livros de apoio sobre interface e usabilidade (por exemplo *About Face*, Don Norman *O Design do Dia a Dia*), conforme o que o grupo realmente usar na bibliografia da disciplina.
 
 ---
 
