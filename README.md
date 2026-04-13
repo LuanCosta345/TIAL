@@ -8,7 +8,7 @@ Este é o repositório do projeto **Divulgação Cultural Independente**, feito 
 
 - Repositório no GitHub: [https://github.com/LuanCosta345/TIAL](https://github.com/LuanCosta345/TIAL)
 - Protótipo no Figma (TI — Projeto de Interfaces): [abrir no Figma](https://www.figma.com/design/LkoTl3oKDp301oRZIQ7S81/TI-Projeto-de-Interfaces?node-id=0-1&t=A83yy0KHKhqGcryK-1)
-- Quadro Kanban no Trello: *(colocar aqui o link público do quadro, quando o grupo tiver)*
+- Link da apresentação: *(colocar aqui o link público do quadro, quando o grupo tiver)*
 
 ---
 
@@ -214,25 +214,3 @@ No Trello usamos três colunas: A fazer, Em progresso e Concluído. Cada cartão
 - A fazer: revisar texto do README; testar tela no celular; alinhar regra de proposta com o grupo.
 - Em progresso: tela de login; busca por gênero; desenho da página de perfil no Figma.
 - Concluído: matriz CSD combinada em reunião; wireframe da home; roteiro das entrevistas fictícias.
-
----
-
-## 6. Solução
-
-É uma plataforma web que liga artista independente e estabelecimento. O artista pode ter perfil com vídeo e estilo, divulgar onde vai tocar, ver oportunidades e receber proposta. O estabelecimento busca por gênero, vê o perfil com vídeo e manda proposta pelo app, com foco em ser simples de usar. Os requisitos da seção anterior resumem o que a gente pretende implementar.
-
----
-
-## 7. Referências bibliográficas
-
-Material que ajudou na parte de contexto (mercado da música, notícias sobre o setor) e na parte técnica e de interface. Vale colocar data de acesso quando for entregar o trabalho.
-
-- Agência Brasil — notícias sobre cultura e mercado fonográfico: [https://agenciabrasil.ebc.com.br/](https://agenciabrasil.ebc.com.br/)
-- Pró-Música Brasil — relatórios sobre o mercado da música no Brasil: [https://pro-musicabr.org.br/](https://pro-musicabr.org.br/)
-- Spotify Newsroom — textos sobre artistas e uso da plataforma: [https://newsroom.spotify.com/](https://newsroom.spotify.com/)
-- MDN Web Docs — HTML, CSS, JavaScript: [https://developer.mozilla.org/](https://developer.mozilla.org/)
-- Livros de apoio sobre interface e usabilidade (por exemplo *About Face*, Don Norman *O Design do Dia a Dia*), conforme o que o grupo realmente usar na bibliografia da disciplina.
-
----
-
-*Projeto acadêmico — Disciplina: Trabalho Interdisciplinar: Desenvolvimento de Aplicações Web.*
